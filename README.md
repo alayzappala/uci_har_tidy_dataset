@@ -5,7 +5,7 @@
 
 This script is a part of the Course Project for "Getting and Cleaning Data" Course.
 
-This script merges two parts of a separated data set: test data and training data of measures of a sensor devices data set.
+This script merges two parts of a separated data set: test data and training data of measures of sensor devices.
 
 The script extracts only the measurements on the mean and standard deviation for each measurement.
 
