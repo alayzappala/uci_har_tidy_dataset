@@ -1,10 +1,9 @@
-# uci_har_tidy_dataset
-
+# run_analysis.R
 
 
 ### Introduction
 
-This file repository is part of the Course Project for "Getting and Cleaning Data" Course
+This script is a part of the Course Project for "Getting and Cleaning Data" Course
 
 This script merges two parts of a separated data set: test data and training data of measures of sensors devices.
 
