@@ -44,16 +44,14 @@ The script extracts only the measurements on the mean and standard deviation for
 8. compose the final test data frame
 
 
-  For the TRAIN measures:
-
-  Repeats steps from 1 to 8 as with Test measures
+9. Repeats steps from 1 to 8 for the TRAIN measures as with Test measures
   
 
-9. merges the train and the test measures in one data frame
+10. merges the train and the test measures in one data frame
 
-10. orders the data set by id_subject and activity
+11. orders the data set by id_subject and activity
 
-11. writes a file with the merged tidy data set
+12. writes a file with the merged tidy data set
 
 ### Data Source
 
